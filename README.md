@@ -11,11 +11,13 @@ In this repository,the Python module ```pfoe.py``` provides functions for implem
 Likelihood function is defined in ```likelihood_function.py``` then please edit this.  
 I showed concrete usage in ```example.py```. please refer to.
 
-## Install
+## Install  
 ### Obtaining modules  
 ```
-$ git clone https://github.com/kato-masahiro/particle_filter_on_episode/PFoE_module
+$git clone https://github.com/kato-masahiro/PFoE_module
 ```
+
+### Copy code to your 
 
 ## Licence
 
