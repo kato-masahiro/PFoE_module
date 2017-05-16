@@ -12,12 +12,16 @@ In this repository,the Python module ```pfoe.py``` provides functions for implem
 $ git clone https://github.com/kato-masahiro/PFoE_module
 ```
 #### Copy modules  
-After cloning,you should to copy the three necessary codes```pfoe.py```,```functions.py```,```likelihood_function.py``` to the directory of your Python project
+After cloning , you should to copy the three necessary codes```pfoe.py```,```functions.py```,```likelihood_function.py``` to the directory of your Python project.  
+```
+$ cd ./PFoE_module
+$ cp *.py  << YOUR PROJECT'S DIRECTORY'S PATH >>
+```
 
 ## Usage  
 ```pfoe.py``` is the body of this module.  
 Likelihood function is defined in ```likelihood_function.py``` then please edit this.  
-I showed concrete usage in ```example.py```. please refer to.
+I showed concrete usage in ```example.py```. please refer to.  
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
